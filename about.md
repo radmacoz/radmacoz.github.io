@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+32살 뒤늦게 뛰어든 늦깍이 개발자입니다.

@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Radmacoz"
-title_right   : "Technical Blog" # default: ""
+title_right   : "  Technical Blog" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://radmacoz.github.io # site url
