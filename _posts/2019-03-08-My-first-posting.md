@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "What is Lorem Ipsum?"
-description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+title: "첫번째 포스트입니다."
+description: "안녕하세요"
 comments: true
 keywords: "dummy content, lorem ipsum"
+categories: Test
+
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# 첫번째 포스팅
+
+## 나의 각오
 
 ### Where does it come from?
 
